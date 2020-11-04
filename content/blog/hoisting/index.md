@@ -1,6 +1,8 @@
 ---
 title: What is hoisting ?
 date: "2020-11-02T23:46:37.121Z"
+description: "In Javascript programming language declarations are hoisted.
+Now what do I mean by hoisting ? Is it like hoisting a flag..."
 ---
 
 In Javascript programming language declarations are hoisted.
