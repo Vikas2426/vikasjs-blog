@@ -24,5 +24,5 @@ In the code snippet above we see that when function 'outer' is called and it fin
 
 Now the thing that makes this concept interesting is that actually when functions are finished executing all variables defined locally inside those functions get removed from memory which means 'name', from our example above, should have been cleared from memory and 'inner' should have thrown an error but due to the concept of closure when 'outer' finished execution, 'name' was remembered/saved by 'inner'.
 
-Stay tuned for more blog...
+Stay tuned for more blogs...
 Coming up next is Currying.
