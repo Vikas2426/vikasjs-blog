@@ -1,5 +1,5 @@
 ---
-title: "What is currying ?"
+title: "Currying ?"
 date: "2020-11-07T22:00:03.284Z"
 description: "A process of transforming a function with multiple arguments into a function with fewer..."
 ---
