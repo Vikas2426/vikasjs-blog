@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Hoisting"
 date: "2020-11-02T23:46:37.121Z"
 description: "In Javascript programming language declarations are hoisted.
@@ -55,4 +55,4 @@ var name
 The above code snippet will log 'undefined' in the console because the variable was defined after its value was called for logging.
 
 I hope this clears your fundamentals on hoisting in Javascript.
-Stay tuned for more soon...
+Stay tuned for more soon... -->
