@@ -39,7 +39,12 @@ Variables are given the space in memory for their declarations only but for func
 
 When we give this piece of code to the JS engine, it will first run through the code and allocate memory for variable firstname and function printAge, even before executing the first line : console.log(firstname), as we can see in the video below, if we add a breakpoint at the first line we can see that variable “firstname” and function “printAge” are available in the memory
 
-![Hoisting.webm](Hoisting.webm)
+<!-- ![Hoisting.webm](hoisting.webm) -->
+<div >
+<video style="width: 60vw" controls="false" allowfullscreen="false" autoplay>
+<source src="hoisting.webm" type="video/webm">
+</video>
+</div>
 
 Since that variable is already in memory, console.log will not throw any error instead display the value of that variable at point of time which is “undefined”. Same will happen for the function printAge, since functions are completely hoisted the function will be run as usual.
 
