@@ -1,6 +1,6 @@
 ---
 title: "Closures"
-date: "2020-11-04T22:00:03.284Z"
+date: "2021-07-03T22:00:03.284Z"
 description: "A simple answer to the question 'What is a closure?' is Closures are a phenomenon where an inner function..."
 ---
 
